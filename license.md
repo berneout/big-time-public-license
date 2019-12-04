@@ -1,8 +1,6 @@
-# Big Time Public License
+# Big Time Public License 1.0.0-pre.2
 
-Development Draft
-
-<https://github.com/berneout/big-time-public-license>
+<https://bigtimelicense.com/versions/1.0.0-pre.2>
 
 ## Purpose
 
